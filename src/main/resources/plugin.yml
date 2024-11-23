@@ -1,0 +1,18 @@
+name: HypixelPunishments
+version: 1.0
+Punishments: me.furyloxx.hypixelpunishments.Punishments
+author: Debuggings
+description: Lightweight hypixel style mute, kick, ban plugin
+commands:
+  mute:
+    description: Mute a player
+  kick:
+    description: Kick a player
+  tempban:
+    description: Temporarily ban a player
+  ban:
+    description: Permanently ban a player
+  unmute:
+    description: Unmute a player
+  unban:
+    description: Unban a player
