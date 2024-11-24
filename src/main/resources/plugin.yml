@@ -1,7 +1,7 @@
 name: HypixelPunishments
 version: 1.0
 Punishments: me.furyloxx.hypixelpunishments.Punishments
-author: Debuggings
+author: Furyloxx
 description: Lightweight hypixel style mute, kick, ban plugin
 commands:
   mute:
